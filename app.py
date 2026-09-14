@@ -1,0 +1,1 @@
+print("MKEA-Lite project started successfully.")
