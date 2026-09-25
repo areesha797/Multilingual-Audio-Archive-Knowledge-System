@@ -6,3 +6,4 @@ __pycache__/
 data/audio/*
 data/processed/*
 models/*
+data/transcripts/*
